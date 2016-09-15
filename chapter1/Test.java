@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Test {
     public static void man(String[] args) {
         System.out.println("An emergency broadcast");

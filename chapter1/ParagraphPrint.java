@@ -1,3 +1,5 @@
+package chapter1;
+
 public class ParagraphPrint {
     public static void main(String[] args) {
         System.out.println("\t There are numerous binary decision trees that one could construct. Nonetheless,\n" + 

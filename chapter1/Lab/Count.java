@@ -1,3 +1,5 @@
+package chapter1.Lab;
+
 //Count.java
 //Count is a program that counts to five in different languages
 //Author: Nathan Lipiarski

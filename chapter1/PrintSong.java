@@ -1,3 +1,5 @@
+package chapter1;
+
 public class PrintSong {
     public static void main(String[] args) {
         System.out.println("Row, row, row your boat"); //Choruse

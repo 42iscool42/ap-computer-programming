@@ -1,3 +1,5 @@
+package chapter1;
+
 public class SitePrint {
     public static void main(String[] args) {
         System.out.println("Stacks of code: https://stacksofcode.com");

@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Knowledge {
     public static void main(String[] args) {
         System.out.println("Knowledge is power");
