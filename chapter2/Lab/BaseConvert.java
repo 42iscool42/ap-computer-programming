@@ -31,7 +31,8 @@ public class BaseConvert
 		//Compute the maximum base 10 number that will fit in 4 digits
 		//in the new base and tell the user what range the number they
 		//want to convert must be in
-		System.out.print ("Please enter a base 10 number to convert: ");
+		int max = base* base * base * base * base - 1;
+		System.out.print ("Please enter a base 10 number to convert that is less than " + max + ": ");
 		base10Num = scan.nextInt();
 		// First compute place0 -- the units place. Remember this comes
 		// from the first division so it is the remainder when the
