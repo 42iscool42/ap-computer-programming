@@ -14,7 +14,6 @@ public class BaseConvert
 	{
 		int base; // the new base
 		int base10Num; // the number in base 10
-		int maxNumber; // the maximum number that will fit
 		// in 4 digits in the new base
 		int place0; // digit in the 1's (base^0) place
 		int place1; // digit in the base^1 place
