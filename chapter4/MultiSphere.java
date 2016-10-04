@@ -1,3 +1,5 @@
+package chapter4;
+
 public class MultiSphere {
     public static void main(String[] args) {
         Sphere s1 = new Sphere(4);

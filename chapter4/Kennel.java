@@ -1,3 +1,5 @@
+package chapter4;
+
 public class Kennel {
     public static void main(String args[]) {
         Dog d1 = new Dog("Grant", 6);
