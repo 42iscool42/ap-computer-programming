@@ -1,5 +1,3 @@
-package chapter4;
-
 public class Sphere {
 	private double diameter;
 	
