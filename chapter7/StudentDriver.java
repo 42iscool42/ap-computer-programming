@@ -9,5 +9,12 @@ public class StudentDriver {
         System.out.println(nate);
         System.out.println();
         System.out.println(grant);
+        
+        Course apProgramming = new Course("Ap Programming");
+        apProgramming.addStudent(nate);
+        apProgramming.addStudent(grant);
+        System.out.println();
+        apProgramming.roll();
+        
     }
 }
