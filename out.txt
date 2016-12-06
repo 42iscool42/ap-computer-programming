@@ -1,0 +1,9189 @@
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+1 2 3 0 -1 
+Blenght: 5
+Exception in thread "main" java.lang.StackOverflowError
+	at sun.nio.cs.UTF_8$Encoder.encodeLoop(UTF_8.java:691)
+	at java.nio.charset.CharsetEncoder.encode(CharsetEncoder.java:579)
+	at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:271)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)
+	at java.io.OutputStreamWriter.write(OutputStreamWriter.java:207)
+	at java.io.BufferedWriter.flushBuffer(BufferedWriter.java:129)
+	at java.io.PrintStream.write(PrintStream.java:526)
+	at java.io.PrintStream.print(PrintStream.java:669)
+	at Sort.quickSort(Sort.java:71)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
+	at Sort.quickSort(Sort.java:90)
