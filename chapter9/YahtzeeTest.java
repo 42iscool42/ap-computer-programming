@@ -1,14 +1,26 @@
 import java.util.Scanner;
+import javax.swing.*;
+import java.awt.*;
 
 public class YahtzeeTest {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        Yahtzee yahtzee = new Yahtzee();
-        yahtzee.roll();
-        System.out.println(yahtzee);
-        int[] remove = {1,2,3,4,5};
-        yahtzee.remove(remove);
-        System.out.println(yahtzee);
-        yahtzee.scoreRound();
+        JFrame frame = new JFrame("Yahtzee!");
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		JPanel container = new JPanel();
+		container.setLayout(new BoxLayout(container, BoxLayout.Y_AXIS));
+		JPanel inPlay, buttonHolder, outOfPlay;
+		inPlay = new JPanel();
+		buttonHolder = new JPanel();
+		outOfPlay = new JPanel();
+		container.add(inPlay);
+		container.add(buttonHolder);
+		container.add(outOfPlay);
+		frame.getContentPane().add(container);
+		
+		Yahtzee yahtzee = new Yahtzee(inPlay, buttonHolder, outOfPlay);
+		
+		frame.setSize(new Dimension(800, 300));
+		frame.setVisible(true);
     }
 }

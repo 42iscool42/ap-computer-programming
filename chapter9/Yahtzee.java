@@ -2,47 +2,98 @@
 
 import java.util.HashMap; //Woot
 import java.util.Iterator;
+import java.util.ArrayList;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
 
 public class Yahtzee {
     Die[] dice;
-    int inPlay;
+    int inPlayNum;
     int score;
     Multiset<Integer> removed;
     HashMap<String, Integer> scoring;
+	ArrayList<String> used;
+	JPanel inPlay, outOfPlay, buttonHolder;
+	JButton scoreButton, rollButton;
+	ArrayList<Integer> inPlayDice;
+	DieButton[] dieButtons;
+	JLabel scoreLabel;
+	int[] removeNums;
     
-    public Yahtzee() {
-        dice = new Die[5];
-        for (int i =0; i < dice.length; i++) {
-            dice[i] = new Die();
-        }
-        inPlay = 5;
+    public Yahtzee(JPanel inPlay, JPanel outOfPlay, JPanel buttonHolder) {
+		this.inPlay = inPlay;
+		this.outOfPlay = outOfPlay;
+		this.buttonHolder = buttonHolder;
+		used = new ArrayList<String>();
         score = 0;
-        removed = new Multiset<Integer>();
+        resetRound();
     }
     
     public void resetRound() {
+		inPlay.removeAll();
+		buttonHolder.removeAll();
+		outOfPlay.removeAll();
         removed = new Multiset<Integer>();
+		removeNums = new int[0];
+		scoring = new HashMap<String, Integer>();
+		dice = new Die[5];
+		dieButtons = new DieButton[5];
+        for (int i =0; i < dice.length; i++) {
+            dice[i] = new Die();
+			inPlay.add(dice[i]);
+			dieButtons[i] = new DieButton(i);
+			dieButtons[i].addMouseListener(new DieButtonListener(dice[i], this));
+			buttonHolder.add(dieButtons[i]);
+        }
+		scoreButton = new JButton("Score Round");
+		scoreButton.addMouseListener(new ScoreButtonListener(this));
+		buttonHolder.add(scoreButton);
+		rollButton = new JButton("Roll");
+		rollButton.addMouseListener(new RollButtonListener(rollButton, this));
+		buttonHolder.add(rollButton);
+        inPlayNum = 5;
+        removed = new Multiset<Integer>();
+		buttonHolder.repaint();
+		inPlay.repaint();
+		outOfPlay.repaint();
+		outOfPlay.getParent().repaint();
+		scoreLabel = new JLabel("Score: " + score);
+		buttonHolder.add(scoreLabel);
+		inPlayDice = new ArrayList<Integer>();
+		inPlayDice.add(0);
+		inPlayDice.add(1);
+		inPlayDice.add(2);
+		inPlayDice.add(3);
+		inPlayDice.add(4);
+		inPlayDice.add(5);
     }
     
     public void roll() {
-        for (int i = 0; i < inPlay; i++)
-            dice[i].roll();
+        for (int i = 0; i < dice.length; i++)
+            if (inPlayDice.contains(i)) dice[i].roll();
     }
+	
+	public void removeDie(Die die) {
+		for (int i =0; i < dice.length; i++) {
+			if (dice[i].equals(die) && dice[i].getParent().equals(inPlay)) {
+				inPlay.remove(dice[i]);
+				outOfPlay.add(dice[i]);
+				buttonHolder.remove(dieButtons[i]);
+				inPlayDice.remove((Integer)i);
+			}
+		}
+		removed.add(die.getRoll());
+		inPlayNum--;
+		buttonHolder.repaint();
+		inPlay.repaint();
+		outOfPlay.repaint();
+	}
     
-    public void remove(int[] dies) {
-        dies = sort(dies);
-        Multiset<Integer> used = new Multiset<Integer>();
-        for (int i : dies) {
-            if (!used.contains(i)) {
-                removed.add(dice[i-1].getRoll());
-                for (int j = i; j < inPlay-1; j++)
-                    dice[j-1] = dice[j];
-                used.add(i);
-            }
-        }
-        inPlay -= used.size();
-    }
-    
+	public Die getDie(int i) {
+		return dice[i];
+	}
+	
     public int[] sort(int[] a) {
         int[] sorted = new int[a.length];
         for (int i =0; i < a.length; i++) {
@@ -65,11 +116,13 @@ public class Yahtzee {
         return score;
     }
     
-    public int scoreGame() {
+    public int score() {
         return score;
     }
     
     public void scoreRound() {
+		if (inPlayNum > 0) return;
+
         HashMap<String, Integer> options = new HashMap<String, Integer>();
         for (int i = 1; i <= 6; i++) {
             if (removed.multiplicity(i) == 5) {
@@ -92,50 +145,59 @@ public class Yahtzee {
                         other = j;
                     }
                 }
-                options.put("Three of a Kind", sum);
-                if (fullHouse)
+				if (!used.contains("Three of a Kind"))
+					options.put("Three of a Kind", sum);
+				
+                if (fullHouse && !used.contains("Full House"))
                     options.put("Full House", 25);
             }
         }
-        if ((removed.multiplicity(1) == 1 || removed.multiplicity(6) ==1) && (removed.multiplicity(2) == 1 && removed.multiplicity(3) == 1 && removed.multiplicity(4) == 1 && removed.multiplicity(5) == 1 ) ) {
+        if (!used.contains("Large Straight") && (removed.multiplicity(1) == 1 || removed.multiplicity(6) ==1) && (removed.multiplicity(2) == 1 && removed.multiplicity(3) == 1 && removed.multiplicity(4) == 1 && removed.multiplicity(5) == 1 ) ) {
             options.put("Large Straight", 40);
         }
-        if ((removed.multiplicity(3) >= 1 && removed.multiplicity(4) >= 1) && ( (removed.multiplicity(1) >= 1 && removed.multiplicity(2) >= 1) || (removed.multiplicity(2) >= 0 && removed.multiplicity(5) >= 0) || (removed.multiplicity(5) >= 0 && removed.multiplicity(6) >= 0 ))) {
+        if (!used.contains("Small Straight") && (removed.multiplicity(3) >= 1 && removed.multiplicity(4) >= 1) && ( (removed.multiplicity(1) >= 1 && removed.multiplicity(2) >= 1) || (removed.multiplicity(2) >= 0 && removed.multiplicity(5) >= 0) || (removed.multiplicity(5) >= 0 && removed.multiplicity(6) >= 0 ))) {
             options.put("Small Straight", 30);
         }
-        if (removed.multiplicity(1) > 0) {
+        if (!used.contains("Aces") && removed.multiplicity(1) > 0) {
             options.put("Aces", removed.multiplicity(1));
         }
-        if (removed.multiplicity(2) > 0 ) {
+        if (!used.contains("Twos") && removed.multiplicity(2) > 0 ) {
             options.put("Twos", removed.multiplicity(2) * 2);
         }
-        if (removed.multiplicity(3) > 0) {
+        if (!used.contains("Threes") && removed.multiplicity(3) > 0) {
             options.put("Threes", removed.multiplicity(3) * 3);
         }
-        if (removed.multiplicity(4) > 0) {
+        if (!used.contains("Fours") && removed.multiplicity(4) > 0) {
             options.put("Fours", removed.multiplicity(4) * 4);
         }
-        if (removed.multiplicity(5) > 0) {
+        if (!used.contains("Fives") && removed.multiplicity(5) > 0) {
             options.put("Fives", removed.multiplicity(5) * 5);
         }
-        if (removed.multiplicity(6) > 0) {
+        if (!used.contains("Sixes") && removed.multiplicity(6) > 0) {
             options.put("Sixes", removed.multiplicity(6) * 6);
         }
         int chance = 0;
         for (int i : removed)
             chance += i;
-        options.put("Chance", chance);
+        if(!used.contains("Chance"))
+			options.put("Chance", chance);
         
-        int opNum = 1;
+		String message = "";
         for (String key : options.keySet()) {
-            System.out.println(opNum + " " + key + " Score: " + options.get(key));
-            opNum ++;
+            message = message + key + ", Score: " + options.get(key) + "\n";
         }
+		String response = "";
+		do {
+			response = JOptionPane.showInputDialog(null, message, "Pick an Option", JOptionPane.INFORMATION_MESSAGE);
+		} while (!options.containsKey(response));
+		score += options.get(response);
+		used.add(response);
+		resetRound();
     }
     
     public String toString() {
         String string = "Unused: ";
-        for (int i = 0; i < inPlay; i++) {
+        for (int i = 0; i < inPlayNum; i++) {
             string += (dice[i] + " ");
         }
         string += "\nRemoved: " + removed.toString();
@@ -143,6 +205,37 @@ public class Yahtzee {
     }
     
     public int diceLeft() {
-        return inPlay;
-    }
+		return inPlayNum;
+	}
+	public class ScoreButtonListener extends MouseAdapter {
+		Yahtzee yahtzee;
+		public ScoreButtonListener(Yahtzee yahtzee) {
+			this.yahtzee = yahtzee;
+		}
+		public void mouseClicked(MouseEvent event) {
+			yahtzee.scoreRound();
+		}
+	}
+	
+	public class RollButtonListener extends MouseAdapter {
+		int rolls;
+		JButton butt;
+		Yahtzee yahtzee;
+		public RollButtonListener(JButton butt, Yahtzee yahtzee) {
+			this.butt = butt;
+			rolls = 1;
+			this.yahtzee = yahtzee;
+		}
+		
+		public void mouseClicked(MouseEvent event) {
+			rolls++;
+			if (rolls <= 3) {
+				yahtzee.roll();
+			}
+			if (rolls > 2) {
+				butt.setEnabled(false);
+			}
+		}
+	}
 }
+
