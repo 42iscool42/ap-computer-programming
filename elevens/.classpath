@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Activity Starter Code/Activity3  Starter Code/|Activity Starter Code/Activity5  Starter Code/Buggy2/|Activity Starter Code/Activity5  Starter Code/Buggy4/|Activity Starter Code/Activity8  Starter Code/|Activity Starter Code/Activity1 Starter Code/|Activity Starter Code/Activity9  Starter Code/|Activity Starter Code/Activity4  Starter Code/|Activity Starter Code/Activity10  Starter Code/|Activity Starter Code/Activity5  Starter Code/Buggy1/|Activity Starter Code/Activity5  Starter Code/Buggy3/|Activity Starter Code/Activity5  Starter Code/Buggy5/|Activity Starter Code/Activity11  Starter Code/|Activity Starter Code/Activity2  Starter Code/|Activity Starter Code/Activity7  Starter Code/" kind="src" path=""/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity1 Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity10  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity11  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity2  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity3  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity4  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity5  Starter Code/Buggy1"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity5  Starter Code/Buggy2"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity5  Starter Code/Buggy3"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity5  Starter Code/Buggy4"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity5  Starter Code/Buggy5"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity7  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity8  Starter Code"/>
+	<classpathentry kind="src" path="Activity Starter Code/Activity9  Starter Code"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
