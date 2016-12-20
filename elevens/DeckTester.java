@@ -54,5 +54,8 @@ public class DeckTester {
 		System.out.println();
 
 		/* *** TO BE COMPLETED IN ACTIVITY 4 *** */
+		Deck d2 = new Deck(ranks, suits, pointValues);
+		d2.shuffle();
+		d2.toString();
 	}
 }
