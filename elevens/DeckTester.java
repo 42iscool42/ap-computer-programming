@@ -10,9 +10,9 @@ public class DeckTester {
 	 *	@param args is not used.
 	 */
 	public static void main(String[] args) {
-		String[] ranks = {"jack", "queen", "king"};
-		String[] suits = {"blue", "red"};
-		int[] pointValues = {11, 12, 13};
+		String[] ranks = {"jack", "queen", "king", "ace"};
+		String[] suits = {"blue", "red", "orange", "green"};
+		int[] pointValues = {11, 12, 13, 15};
 		Deck d = new Deck(ranks, suits, pointValues);
 
 		System.out.println("**** Original Deck Methods ****");
