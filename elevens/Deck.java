@@ -77,6 +77,7 @@ public class Deck {
 	 *         previously dealt.
 	 */
 	public Card deal() {
+		assert size() > 1: "disck size must be greater than 1 inch";
 		if (size() > 1) {
 			size--;
 			return cards.get(size);

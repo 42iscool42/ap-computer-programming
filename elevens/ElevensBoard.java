@@ -121,4 +121,31 @@ public class ElevensBoard extends Board {
 	    localArrayList.add(new Integer(k));
 	    replaceSelectedCards(localArrayList);
 	  }
+	  
+	  public boolean playIfPossible() {
+	  		if (containsPairSum11()) {
+	  			processPairSum11();
+	  			return true;
+	  		} else if (containsJQK()) {
+	  			processJQK();
+	  			return true;
+	  		} 
+	  		return false;
+	  }
+	  
+	  public boolean playPairSum11IfPossible() {
+	  	if (containsPairSum11()) {
+	  		processPairSum11();
+	  		return true;
+	  	}
+	  	return false;
+	  }
+	  
+	  public boolean playJQKIfPossible() {
+	  	if (containsJQK()) {
+	  		processJQK();
+	  		return true;
+	  	}
+	  	return false;
+	  }
 }
