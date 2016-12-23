@@ -28,29 +28,32 @@ public class ElevensBoard extends Board {
 	      int j = ((Integer)paramList.get(1)).intValue();
 	      return cardAt(i).pointValue() + cardAt(j).pointValue() == 11;
 	    }
-	    return containsJQK(paramList);
+	    return findJQK(paramList).size() > 0;
 	  }
 	  
 	  public boolean anotherPlayIsPossible()
 	  {
-	    return (containsPairSum11()) || (containsJQK());
+	    return (findPairSum11().size() > 0) || (findJQK().size() > 0);
 	  }
 	  
-	  public boolean containsPairSum11()
+	  public ArrayList<Integer> findPairSum11()
 	  {
+	  	ArrayList<Integer> indexes = new ArrayList<Integer>();
 	    for (int i = 0; i < 9; i++) {
 	      if (cardAt(i) != null) {
 	        for (int j = i + 1; j < 9; j++) {
 	          if ((cardAt(j) != null) && (cardAt(i).pointValue() + cardAt(j).pointValue() == 11)) {
-	            return true;
+	            indexes.add(new Integer(i));
+	            indexes.add(new Integer(j));
+	            return indexes;
 	          }
 	        }
 	      }
 	    }
-	    return false;
+	    return indexes;
 	  }
 	  
-	  public boolean containsJQK()
+	  public ArrayList<Integer> findJQK()
 	  {
 	    ArrayList localArrayList = new ArrayList();
 	    for (int i = 0; i < 9; i++) {
@@ -58,26 +61,33 @@ public class ElevensBoard extends Board {
 	        localArrayList.add(new Integer(i));
 	      }
 	    }
-	    return containsJQK(localArrayList);
+	    return findJQK(localArrayList);
 	  }
 	  
-	  public boolean containsJQK(List<Integer> paramList)
+	  public ArrayList<Integer> findJQK(List<Integer> paramList)
 	  {
-	    int i = 0;
-	    int j = 0;
-	    int k = 0;
-	    for (Integer localInteger : paramList)
+	  	ArrayList<Integer> indexes = new ArrayList<Integer>();
+	    int i = -1;
+	    int j = -1;
+	    int k = -1;
+	    for (int n = 0; n < paramList.size(); n++)
 	    {
-	      int m = localInteger.intValue();
+	    
+	      int m = paramList.get(n).intValue();
 	      if (cardAt(m).rank().equals("jack")) {
-	        i = 1;
+	        i = m;
 	      } else if (cardAt(m).rank().equals("queen")) {
-	        j = 1;
+	        j = m;
 	      } else if (cardAt(m).rank().equals("king")) {
-	        k = 1;
+	        k = m;
 	      }
 	    }
-	    return (i != 0) && (j != 0) && (k != 0);
+	    if ((i > -1) && (j > -1) && (k > -1)) {
+	    	indexes.add(i);
+	    	indexes.add(j);
+	    	indexes.add(k);
+	    }
+	    return indexes;
 	  }
 	  
 	  public void processPairSum11()
@@ -123,27 +133,27 @@ public class ElevensBoard extends Board {
 	  }
 	  
 	  public boolean playIfPossible() {
-	  		if (containsPairSum11()) {
-	  			processPairSum11();
+	  		if (playPairSum11IfPossible()) {
 	  			return true;
-	  		} else if (containsJQK()) {
-	  			processJQK();
+	  		} else if (playJQKIfPossible()) {
 	  			return true;
 	  		} 
 	  		return false;
 	  }
 	  
-	  public boolean playPairSum11IfPossible() {
-	  	if (containsPairSum11()) {
-	  		processPairSum11();
+	  private boolean playPairSum11IfPossible() {
+	  	ArrayList<Integer> indexes = findPairSum11();
+	  	if (indexes.size() > 0) {
+	  		replaceSelectedCards(indexes);
 	  		return true;
 	  	}
 	  	return false;
 	  }
 	  
-	  public boolean playJQKIfPossible() {
-	  	if (containsJQK()) {
-	  		processJQK();
+	  private boolean playJQKIfPossible() {
+	  	ArrayList<Integer> indexes = findJQK();
+	  	if (indexes.size() > 0) {
+	  		replaceSelectedCards(indexes);
 	  		return true;
 	  	}
 	  	return false;
