@@ -11,7 +11,7 @@ public class ThirteensBoard extends Board{
 	  
 	  public ThirteensBoard()
 	  {
-	    super(9, RANKS, SUITS, POINT_VALUES);
+	    super(10, RANKS, SUITS, POINT_VALUES);
 	  }
 	  
 	  public boolean isLegal(List<Integer> paramList)
